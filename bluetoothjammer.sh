@@ -1,3 +1,4 @@
+#!/bin/bash
 printf "MAC address: (if not known, type a random one, it will create some noise) "
 read addr
 hciconfig
